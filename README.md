@@ -8,3 +8,5 @@ También se puede customizar los márgenes de lectura del escánder de identific
 Si cumple con las proporciones de una tarjeta de identificación se recorta, si no se devuelve la imagen original.
 
 No se necesitan librerías de manipulación de imágenes.
+
+Sólo se debe hacer un import con el nombre de la clase { cropIdCardImage }
